@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dvleu" alt="dvleu" /></a> </p>
 
-- 🌱 *I'm a passionate Python enthusiast dedicated to honing my skills in software development and advanced algorithmic problem-solving. Exploring the endless possibilities of Python, I'm actively learning and applying my knowledge to create meaningful projects and contribute to open-source initiatives. *
-
+- 🌱 I'm a passionate Python enthusiast dedicated to honing my skills in software development and advanced algorithmic problem-solving. Exploring the endless possibilities of Python, I'm actively learning and applying my knowledge to create meaningful projects and contribute to open-source initiatives.
+- ⚡ I also know some other programming languages such as : Java, C++ and C# including web development and data base implementation with MySQL. 
 - 📫 How to reach me **davidanakin4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
