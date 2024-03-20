@@ -7,7 +7,7 @@
 
 - ⚡ I'm a passionate Python enthusiast dedicated to honing my skills in software development and advanced algorithmic problem-solving. While exploring the endless possibilities of Python, I actively learn and apply my knowledge to create meaningful projects and contribute to open-source initiatives. Additionally, I have experience with other programming languages such as Java, C++, and C#, as well as web development and database implementation using MySQL.
   
-- 📫 How to reach me **davidanakin4@gmail.com**
+- 📫 How to reach me **davidleonsalasdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
