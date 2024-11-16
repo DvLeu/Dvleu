@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dvleu" alt="dvleu" /></a> </p>
 
-- ⚡ I'm a passionate Python enthusiast dedicated to honing my skills in software development and advanced algorithmic problem-solving. While exploring the endless possibilities of Python, I actively learn and apply my knowledge to create meaningful projects and contribute to open-source initiatives. Additionally, I have experience with other programming languages such as Java, C and C++ , as well as web development and database implementation using MySQL.
+- ⚡ I'm a passionate Python enthusiast dedicated to honing my skills in software development and advanced algorithmic problem-solving. While exploring the endless possibilities of Python, I actively learn and apply my knowledge to create meaningful projects and contribute to open-source initiatives. Additionally, I have experience with other programming languages such as Java, C and C++ , as well as web development and database implementation using MySQL and PostgreSQL.
   
 - 📫 How to reach me **davidleonsalasdev@gmail.com**
 
