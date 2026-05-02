@@ -1,8 +1,8 @@
 # About Me:
-Python Backend Developer focused on APIs, data automation, and clean backend architecture.
-I have worked with FastAPI, Flask, MongoDB, PostgreSQL, SQL Server, Docker, and Azure App Services across internships and academic projects. My experience includes building REST APIs, automating data ingestion workflows, processing Excel files into structured JSON, creating web scrapers, and integrating backend services with dashboards and internal tools.
-I enjoy turning messy manual processes into reliable systems, with a strong focus on clean architecture, data validation, and maintainable code.
-Currently completing my Computer Systems Engineering degree and graduated from the Samsung Innovation Campus – Artificial Intelligence & Leadership program.
+I'm a **Python Backend Developer** who enjoys building APIs, automating workflows, and designing backend systems that are easy to understand and maintain.
+My experience includes working with **FastAPI**, **Flask**, **MongoDB**, **PostgreSQL**, **SQL Server**, **Docker**, and **Azure App Services**. I have built REST APIs, automated data ingestion processes, created Excel-to-JSON pipelines, developed web scrapers, and connected backend services with dashboards and internal tools.
+I like solving practical problems with clean architecture, reliable data validation, and database design that does not become a crime scene after two sprints.
+I hold a **Bachelor’s degree in Computer Systems Engineering** and graduated from the **Samsung Innovation Campus – Artificial Intelligence & Leadership** program.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davidsleonn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-leon-salas-604519243) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Pambasico) 
 
