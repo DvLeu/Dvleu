@@ -1,10 +1,15 @@
-# About Me:
+# Hi, I'm David León 👋
 
-I'm a **Python Backend Developer** who enjoys building APIs, automating workflows, and designing backend systems that are easy to understand and maintain.
+I'm a **Python Backend Developer** focused on building REST APIs, automation scripts, and data-driven backend tools.
 
-My experience includes working with **FastAPI**, **Flask**, **MongoDB**, **PostgreSQL**, **SQL Server**, **Docker**, and **Azure App Services**. I have built REST APIs, automated data ingestion processes, created Excel-to-JSON pipelines, developed web scrapers, and connected backend services with dashboards and internal tools.
+I work with **FastAPI**, **Flask**, **Django**, **MongoDB**, **PostgreSQL**, **SQL Server**, **Docker**, and **Linux**, applying these technologies through internships, academic projects, and personal software projects.
 
-I hold a **Bachelor’s degree in Computer Systems Engineering** and graduated from the **Samsung Innovation Campus – Artificial Intelligence & Leadership** program.
+My experience includes building API endpoints, validating data with Pydantic, creating Excel-to-JSON pipelines, automating repetitive tasks with Python and Selenium, and connecting backend processes with dashboards and internal tools.
+
+I recently completed my **Bachelor’s degree in Computer Systems Engineering** and graduated from the **Samsung Innovation Campus – Artificial Intelligence & Leadership** program, where I strengthened my foundation in AI, backend development, and problem-solving.
+
+I'm currently focused on growing as a backend developer while improving my knowledge of **React**, **CI/CD**, and cloud deployment workflows.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davidsleonn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-leon-salas-604519243) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Pambasico) 
 
@@ -12,8 +17,6 @@ I hold a **Bachelor’s degree in Computer Systems Engineering** and graduated f
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -21,8 +24,6 @@ I hold a **Bachelor’s degree in Computer Systems Engineering** and graduated f
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![CI/CD](https://img.shields.io/badge/ci%2Fcd-%230A0A0A.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
@@ -42,13 +43,7 @@ I hold a **Bachelor’s degree in Computer Systems Engineering** and graduated f
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) 
+![CI/CD](https://img.shields.io/badge/ci%2Fcd-%230A0A0A.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dvleu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dvleu&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvleu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Dvleu&icon=0&color=0)](https://visitcount.itsvg.in)
