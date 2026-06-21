@@ -1,14 +1,5 @@
 # Hi, I'm David León 👋
-
 I'm a **Python Backend Developer** focused on building REST APIs, automation scripts, and data-driven backend tools.
-
-I work with **FastAPI**, **Flask**, **Django**, **MongoDB**, **PostgreSQL**, **SQL Server**, **Docker**, and **Linux**, applying these technologies through internships, academic projects, and personal software projects.
-
-My experience includes building API endpoints, validating data with Pydantic, creating Excel-to-JSON pipelines, automating repetitive tasks with Python and Selenium, and connecting backend processes with dashboards and internal tools.
-
-I recently completed my **Bachelor’s degree in Computer Systems Engineering** and graduated from the **Samsung Innovation Campus – Artificial Intelligence & Leadership** program, where I strengthened my foundation in AI, backend development, and problem-solving.
-
-I'm currently focused on growing as a backend developer while improving my knowledge of **React**, **CI/CD**, and cloud deployment workflows.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davidsleonn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-leon-salas-604519243) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Pambasico) 
