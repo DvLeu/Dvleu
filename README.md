@@ -1,5 +1,5 @@
 # Hi, I'm David León 👋
-I'm a **Python Backend Developer** focused on building REST APIs, automation scripts, and data-driven backend tools.
+I'm a **Software Engineer** focused on building REST APIs, automation scripts, and data-driven backend tools.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davidsleonn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-leon-salas-604519243) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Pambasico) 
